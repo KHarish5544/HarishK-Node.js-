@@ -1,0 +1,52 @@
+.user-info {
+  border: 2px solid #4CAF50;
+  padding: 20px;
+  max-width: 400px;
+  margin: 20px auto;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+.user-info h2 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.user-info button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.user-info button:hover {
+  background-color: #45a049;
+}
+
+.details {
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+.details p {
+  margin: 5px 0;
+}
+form{
+  margin: 200px 570px;
+  border: 3px solid black;
+  padding: 8px;
+  justify-content: left;
+}
+input{
+  margin: 5px 4px;
+  
+}
+.hi{
+  margin: 0px 570px;
+  margin-left: 700px;
+  margin-top: 10px;
+  padding: 5px;
+  font-size: 20px;
+}
