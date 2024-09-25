@@ -1,0 +1,25 @@
+.toggle-message {
+  border: 2px solid #FF5722;
+  padding: 20px;
+  max-width: 400px;
+  margin: 20px auto;
+  border-radius: 10px;
+  background-color: #FFEBEE;
+  text-align: center;
+  }
+  .toggle-message button {
+  background-color: #FF5722;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  }
+  .toggle-message button:hover {
+  background-color: #E64A19;
+  }
+  .message {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #D32F2F;
+  }
